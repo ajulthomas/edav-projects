@@ -1,3 +1,5 @@
 secret.txt
 .virtual_*
 .ipynb_*
+*.zip
+*.csv
